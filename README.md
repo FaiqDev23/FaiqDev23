@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FaiqDev23
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJs
+- 👀 I’m interested in Startups
+- 🌱 I’m currently learning Web technologies and programming
 - 📫 How to reach me faig.rustamov@perkskit.com
 
 
